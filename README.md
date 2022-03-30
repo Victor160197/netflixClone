@@ -7,15 +7,14 @@ Recriação da interface do site de streaming mundial utilizando tecnologias sim
   <img height="220em" src="img/prototipo2.png"/>
 </div>
   
- ## Plugins JQuery:
+ ## Links:
   
-  Owl Carousel 2
-  link: https://owlcarousel2.github.io/OwlCarousel2/
+ ### Plugins JQuery Owl Carousel 2 : 
+  https://owlcarousel2.github.io/OwlCarousel2/
   
-  ## Fontawesome:
+  ### Fontawesome:
   
-  Utilizado nos ícones do Play e Info presentes nos butões
-  link:https://fontawesome.com/
+  https://fontawesome.com/
   
   
   
